@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: ClimberMel's Test Blog
 ---
 
